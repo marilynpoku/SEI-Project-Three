@@ -30,7 +30,7 @@ Users can filter by the type of place or search for the name of a particular pla
 
 #### Map page
 
-Users can filter the gems shown by the typeof place and tags.
+Users can filter the gems shown by the type of place and tags.
 
 ![alt text](https://i.imgur.com/5BAqSvi.jpg)
 
