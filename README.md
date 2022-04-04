@@ -15,8 +15,8 @@ This was my first group full stack MERN project with full CRUD functionality usi
 
 ### Project members 
 
-Tom Murphy - https://github.com/Kumasta 
-Mayur Raj Kumar - https://github.com/TMurp 
+- Tom Murphy - https://github.com/Kumasta 
+- Mayur Raj Kumar - https://github.com/TMurp 
 
 ### Site screenshots 
 
