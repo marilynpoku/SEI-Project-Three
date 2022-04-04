@@ -166,14 +166,14 @@ Screenshot of the JSX for the comment card component:
 React bootstrap was used for the layout and structure of the navbar.  Ternary operators were used to ensure certain information was displayed when the user was logged in and authenticated. For example, the navbar will toggle between the login in/register links and the profile/logout links depending on whether the user was authorised. 
 
 
-#### Challenges 
+### Challenges 
 
 - When building the backend, we had difficulty populating some of the models with the correct nested schema information.
 - This was my first time styling a carousel. I struggled to override the existing bootstrap styling and had to play around with targeting the different elements before achieving the desired design. 
 - I had to refactor my code several times to get the functionality working for editing comments. The main challenge was knowing which buttons should handle the handleEditButtonClick function or the editComment function.
 
 
-#### Bugs 
+### Bugs 
 
 - The carousel requires images to have a certain height and width. Images that are below this will look stretched and pixelated. 
 
